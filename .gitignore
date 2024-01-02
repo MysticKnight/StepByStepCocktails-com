@@ -5,7 +5,7 @@
 /public/storage
 /storage/*.key
 # Elgin Removed: /vendor
-.env
+# Elgin Removed: .env
 .env.backup
 .env.production
 .phpunit.result.cache
