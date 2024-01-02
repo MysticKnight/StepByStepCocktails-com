@@ -1,0 +1,17 @@
+{
+  "resources/css/sass/styles.scss": {
+    "file": "assets/styles-w40geAFS.js",
+    "isEntry": true,
+    "src": "resources/css/sass/styles.scss"
+  },
+  "resources/css/tailwind.css": {
+    "file": "assets/tailwind-AqgN1WXm.css",
+    "isEntry": true,
+    "src": "resources/css/tailwind.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-nGfMv9XH.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
